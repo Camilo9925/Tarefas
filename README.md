@@ -3,10 +3,9 @@
 Este é um sistema de gerenciamento de tarefas estilo **Kanban**, feito com:
 
 - ✅ Python + Flask
-- ✅ Banco de dados MySQL (ou SQLite se preferir)
+- ✅ Banco de dados MySQL
 - ✅ HTML e CSS com Bootstrap 5
-- ✅ 100% renderizado no backend (Jinja2)
-
+  
 ---
 
 ## 🎯 Funcionalidades
